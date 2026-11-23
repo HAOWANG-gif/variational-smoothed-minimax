@@ -1,0 +1,8 @@
+# The supplied archive did not contain a tested lock file, so exact versions
+# are intentionally not fabricated. Python 3.12 is recommended.
+numpy
+scipy
+scikit-learn
+torch
+sbi
+geomloss

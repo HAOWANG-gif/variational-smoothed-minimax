@@ -1,0 +1,13 @@
+name: vsm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - numpy
+      - scipy
+      - scikit-learn
+      - torch
+      - sbi
+      - geomloss
